@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Selen 
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me on [Instagram](https://www.instagram.com/selencodes/)
+- 👩‍⚕️ I'm medical intern
